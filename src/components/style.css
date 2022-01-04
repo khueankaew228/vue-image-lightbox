@@ -86,10 +86,8 @@ img.vue-lb-modal-image {
   position: absolute;
   bottom: 25px;
   color: white;
-  background-color: rgba(0, 0, 0, 0.7);
   height: 40px;
   width: 100%;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
 }
 
