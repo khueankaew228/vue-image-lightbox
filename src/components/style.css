@@ -82,13 +82,7 @@ img.vue-lb-modal-image {
 }
 
 .vue-lb-info {
-  visibility: initial;
-  position: absolute;
-  bottom: 25px;
-  color: white;
-  height: 40px;
-  width: 100%;
-  text-align: center;
+  display: block !important;
 }
 
 
